@@ -1,2 +1,3 @@
 # starweb
-Star Web Portal 
+It is code repository for Star Web Portal  
+Amit Manekar
